@@ -4,7 +4,7 @@ CHATAPP PART 1
 ## Student information 
 Name:Ilhan
 Student Number: ST10528710
-Module: 
+Module: PROG5121
 
 ## Code information 
 This class checks and stores user data:
