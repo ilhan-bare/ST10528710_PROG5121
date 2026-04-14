@@ -5,3 +5,9 @@ CHATAPP PART 1
 Name:
 Student Number: 
 Module: 
+
+## Code information 
+This class checks and stores user data:
+Username → must contain _ and be max 5 characters
+Password → must have 8+ characters, 1 capital letter, 1 number, 1 special character
+Cell number → must start with + and include country code
